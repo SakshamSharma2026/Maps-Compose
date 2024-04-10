@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Maps Compose</string>
+    <string name="click_to_delete">Click to delete</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="relation">Relation</string>
+    <string name="address">Address</string>
+    <string name="lat">Lat</string>
+    <string name="lng">Lng</string>
+    <string name="save">Save</string>
+    <string name="delete_marker">Delete this marker</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_warning">You will not be able to undo this action</string>
+    <string name="personal_details">Enter Personal Details</string>
 </resources>
