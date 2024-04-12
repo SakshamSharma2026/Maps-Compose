@@ -15,9 +15,9 @@
      <td>Marker Delete Dialogk</td>
   </tr>
   <tr>
-    <td><img src="ss/Screenshot_1.png" width=270 height=480></td>
-    <td><img src="ss/Screenshot_3.png" width=270 height=480></td>
-    <td><img src="ss/Screenshot_2.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot_1.png" width=270 height=500></td>
+    <td><img src="ss/Screenshot_3.png" width=270 height=500></td>
+    <td><img src="ss/Screenshot_2.png" width=270 height=500></td>
   </tr>
  </table>
 
