@@ -12,7 +12,7 @@
   <tr>
     <td>Home Screen</td>
      <td>Marker Information Dialog</td>
-     <td>Marker Delete Dialogk</td>
+     <td>Marker Delete Dialog</td>
   </tr>
   <tr>
     <td><img src="ss/Screenshot_1.png" width=270 height=500></td>
