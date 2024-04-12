@@ -7,11 +7,11 @@
 
 ### Maps Compose, crafted with Jetpack Compose and Google Maps SDK, empowers users to interact with maps seamlessly. With marker management, customization, and database integration, users can add, delete, customize markers, and save them persistently, ensuring a personalized and efficient mapping experience.
 
-![App Screenshot](https://github.com/SakshamSharma2026/Maps-Compose/blob/main/ss/Screenshot_1712898433.png)
+![App Screenshot](https://github.com/SakshamSharma2026/Maps-Compose/blob/main/ss/Screenshot_1.png)
 
-![App Screenshot](https://github.com/SakshamSharma2026/Maps-Compose/blob/main/ss/Screenshot_1712898438.png)
+![App Screenshot](https://github.com/SakshamSharma2026/Maps-Compose/blob/main/ss/Screenshot_3.png)
 
-![App Screenshot](https://github.com/SakshamSharma2026/Maps-Compose/blob/main/ss/Screenshot_1712898443.png)
+![App Screenshot](https://github.com/SakshamSharma2026/Maps-Compose/blob/main/ss/Screenshot_2.png)
 
 ## Features ✨-
 - Save Marker in DB
